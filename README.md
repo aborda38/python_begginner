@@ -1,2 +1,3 @@
-# python_begginner
-Here you are going to see solutions for exercises on https://www.practicepython.org/ Thanks Michele Pratusevich @mprat to do the web site to learn python.
+# <center> Python beginner  :tw-1f40d:
+Here you are going to see my code to solve [Practice Python](https://www.practicepython.org/ "Practice Python") exercises.
+Thanks, Michele Pratusevich @mprat to do the web site to learn python and Platzi to teach me.

@@ -1,5 +1,5 @@
 #Ask the user for a number and determine whether the number is prime or not.
-
+        
 def run ():
     def numprime():
         user_number = int(input('Type a number to check primality --> '))
