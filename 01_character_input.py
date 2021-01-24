@@ -19,3 +19,6 @@ def run():
 
 if __name__ == '__main__':
     run()
+
+#Testin git commit -amend
+#Testing the command in the terminal
